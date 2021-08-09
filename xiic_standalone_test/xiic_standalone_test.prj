@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="xiic_standalone_test" location="/home/austin/Documents/TSC/bare_metal_vitis_ws/xiic_standalone_test" platform="/home/austin/Documents/TSC/bare_metal_vitis_ws/ArtyZ7/export/ArtyZ7/ArtyZ7.xpfm" platformUID="xilinx:arty-z7-20::0.0(custom)" systemProject="xiic_standalone_test_system" sysConfig="ArtyZ7" runtime="C/C++" cpu="standalone_domain" cpuInstance="ps7_cortexa9_0" os="standalone" mssSignature="16504737c29ec332a070d4918bff4005">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.1265746072">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.2132560462" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>
